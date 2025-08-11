@@ -39,3 +39,5 @@ function toggleTheme() {
         toggleButton.innerText = "🌙";
     }
 }
+
+document.getElementById("currentYear").textContent = new Date().getFullYear();
