@@ -1,6 +1,20 @@
 # 🧮 Calculator App
 
-Welcome to the **Calculator App**! This project is a simple yet powerful calculator built with HTML, CSS, and JavaScript. It features a clean design, dark mode, and essential mathematical functions.
+Welcome to the **Calculator App**! This project is a simple yet powerful calculator built with HTML, CSS, and JavaScript. It features a clean design, dark mode, and essential mathematical functions. 
+
+<b>Light Mode</b>
+<p align="center">
+  <kbd>
+    <img src="https://github.com/musamaakhtar-tech/Calculator_App/blob/main/Calculator_App_Light.png" alt="Calculator App Light Mode Demo">
+  </kbd>
+</p>
+
+<b>Dark Mode</b>
+<p align="center">
+  <kbd>
+    <img src="https://github.com/musamaakhtar-tech/Calculator_App/blob/main/Calculator_App_Dark.png" alt="Calculator App Dark Mode Demo">
+  </kbd>
+</p>
 
 ## 🚀 Features
 
